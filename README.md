@@ -1,2 +1,1 @@
-# Repo1
-Repo1 PrepCourse Henry
+Este proyecto es una prueba
